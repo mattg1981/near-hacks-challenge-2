@@ -1,0 +1,18 @@
+/Users/mgimbl/Development/near-hello-world/contract/target/rls/debug/deps/typenum-fe728e03325b0f8d.rmeta: /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs /Users/mgimbl/Development/near-hello-world/contract/target/rls/debug/build/typenum-21c79e155ca7121a/out/op.rs /Users/mgimbl/Development/near-hello-world/contract/target/rls/debug/build/typenum-21c79e155ca7121a/out/consts.rs
+
+/Users/mgimbl/Development/near-hello-world/contract/target/rls/debug/deps/typenum-fe728e03325b0f8d.d: /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs /Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs /Users/mgimbl/Development/near-hello-world/contract/target/rls/debug/build/typenum-21c79e155ca7121a/out/op.rs /Users/mgimbl/Development/near-hello-world/contract/target/rls/debug/build/typenum-21c79e155ca7121a/out/consts.rs
+
+/Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs:
+/Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs:
+/Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs:
+/Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs:
+/Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs:
+/Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs:
+/Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs:
+/Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs:
+/Users/mgimbl/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs:
+/Users/mgimbl/Development/near-hello-world/contract/target/rls/debug/build/typenum-21c79e155ca7121a/out/op.rs:
+/Users/mgimbl/Development/near-hello-world/contract/target/rls/debug/build/typenum-21c79e155ca7121a/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/mgimbl/Development/near-hello-world/contract/target/rls/debug/build/typenum-21c79e155ca7121a/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/mgimbl/Development/near-hello-world/contract/target/rls/debug/build/typenum-21c79e155ca7121a/out/op.rs
